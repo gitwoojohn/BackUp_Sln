@@ -1,0 +1,9 @@
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\bin\Debug\First Delegate Ex 01.exe.config
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\bin\Debug\First Delegate Ex 01.exe
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\bin\Debug\First Delegate Ex 01.pdb
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\obj\Debug\First Delegate Ex 01.csprojResolveAssemblyReference.cache
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\obj\Debug\First Delegate Ex 01.exe
+G:\Project\CSharp\First Delegate Ex 01\First Delegate Ex 01\obj\Debug\First Delegate Ex 01.pdb
+G:\Project\1_A New Start\Deligate EX 01\First Delegate Ex 01\First Delegate Ex 01\bin\Debug\First Delegate Ex 01.exe.config
+G:\Project\1_A New Start\Deligate EX 01\First Delegate Ex 01\First Delegate Ex 01\obj\Debug\First Delegate Ex 01.exe
+G:\Project\1_A New Start\Deligate EX 01\First Delegate Ex 01\First Delegate Ex 01\obj\Debug\First Delegate Ex 01.pdb

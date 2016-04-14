@@ -1,0 +1,7 @@
+G:\Project\1_A New Start\Extended Method EX 01\Extended Method EX 01\bin\Debug\Extended Method EX 01.exe.config
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\bin\Debug\Extended Method EX 01.exe.config
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\bin\Debug\Extended Method EX 01.exe
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\bin\Debug\Extended Method EX 01.pdb
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\obj\Debug\Extended Method EX 01.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\obj\Debug\Extended Method EX 01.exe
+G:\BackUp_Sln\Extended Method EX 01\Extended Method EX 01\obj\Debug\Extended Method EX 01.pdb

@@ -1,0 +1,6 @@
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\bin\Debug\SortedSet.ConsoleApp.exe.config
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\bin\Debug\SortedSet.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\bin\Debug\SortedSet.ConsoleApp.pdb
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\obj\Debug\SortedSet.ConsoleApp.csprojResolveAssemblyReference.cache
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\obj\Debug\SortedSet.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\SortedSet.ConsoleApp\obj\Debug\SortedSet.ConsoleApp.pdb

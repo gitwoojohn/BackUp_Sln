@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericDelegate\obj\Debug\GenericDelegate.pdb

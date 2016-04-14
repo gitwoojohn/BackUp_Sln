@@ -1,0 +1,8 @@
+G:\Project\1_A New Start\Generic EX 01\XMLWriter.ConsoleApp\bin\Debug\XMLWriter.ConsoleApp.exe.config
+G:\Project\1_A New Start\Generic EX 01\XMLWriter.ConsoleApp\bin\Debug\XMLWriter.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\XMLWriter.ConsoleApp\bin\Debug\XMLWriter.ConsoleApp.pdb
+G:\Project\1_A New Start\Generic EX 01\XMLWriter.ConsoleApp\obj\Debug\XMLWriter.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\XMLWriter.ConsoleApp\obj\Debug\XMLWriter.ConsoleApp.pdb
+G:\BackUp_Sln\Generic EX 01\XMLWriter.ConsoleApp\bin\Debug\XMLWriter.ConsoleApp.exe.config
+G:\BackUp_Sln\Generic EX 01\XMLWriter.ConsoleApp\obj\Debug\XMLWriter.ConsoleApp.exe
+G:\BackUp_Sln\Generic EX 01\XMLWriter.ConsoleApp\obj\Debug\XMLWriter.ConsoleApp.pdb

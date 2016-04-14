@@ -1,0 +1,6 @@
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\bin\Debug\Linq Basic Ex 01.exe.config
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\obj\Debug\Basic 01.csprojResolveAssemblyReference.cache
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\bin\Debug\Linq Basic Ex 01.exe
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\bin\Debug\Linq Basic Ex 01.pdb
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\obj\Debug\Linq Basic Ex 01.exe
+G:\Project\CSharp\Linq Basic Ex 01\Linq Basic Ex 01\obj\Debug\Linq Basic Ex 01.pdb

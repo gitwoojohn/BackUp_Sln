@@ -1,0 +1,6 @@
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\bin\Debug\Abstract_EX_02.exe.config
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\bin\Debug\Abstract_EX_02.exe
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\bin\Debug\Abstract_EX_02.pdb
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\obj\Debug\Abstract_EX_02.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\obj\Debug\Abstract_EX_02.exe
+G:\BackUp_Sln\ABSTRACT EX 01\Abstract_EX_02\obj\Debug\Abstract_EX_02.pdb

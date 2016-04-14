@@ -1,0 +1,9 @@
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\bin\Debug\WinForm_Co_ContraVariance.exe.config
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\bin\Debug\WinForm_Co_ContraVariance.exe
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\bin\Debug\WinForm_Co_ContraVariance.pdb
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.Form1.resources
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.Properties.Resources.resources
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.csproj.GenerateResource.Cache
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.exe
+G:\BackUp_Sln\GenericTest\WinForm_Co_ContraVariance\obj\Debug\WinForm_Co_ContraVariance.pdb

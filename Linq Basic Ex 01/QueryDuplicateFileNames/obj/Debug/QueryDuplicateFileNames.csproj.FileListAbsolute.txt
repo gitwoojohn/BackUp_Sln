@@ -1,0 +1,1 @@
+G:\Project\CSharp\Linq Basic Ex 01\QueryDuplicateFileNames\bin\Debug\QueryDuplicateFileNames.exe.config

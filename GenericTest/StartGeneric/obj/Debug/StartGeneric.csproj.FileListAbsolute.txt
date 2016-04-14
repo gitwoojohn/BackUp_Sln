@@ -1,0 +1,7 @@
+C:\Users\Sapphire\Downloads\ADownTemp\StartGeneric\bin\Debug\StartGeneric.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\bin\Debug\StartGeneric.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\bin\Debug\StartGeneric.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\bin\Debug\StartGeneric.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\obj\Debug\StartGeneric.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\obj\Debug\StartGeneric.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\StartGeneric\obj\Debug\StartGeneric.pdb

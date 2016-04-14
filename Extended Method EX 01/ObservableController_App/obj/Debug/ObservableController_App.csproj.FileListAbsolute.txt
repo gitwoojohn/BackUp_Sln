@@ -1,0 +1,6 @@
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\bin\Debug\ObservableController_App.exe.config
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\bin\Debug\ObservableController_App.exe
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\bin\Debug\ObservableController_App.pdb
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\obj\Debug\ObservableController_App.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\obj\Debug\ObservableController_App.exe
+G:\BackUp_Sln\Extended Method EX 01\ObservableController_App\obj\Debug\ObservableController_App.pdb

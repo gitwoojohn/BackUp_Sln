@@ -1,0 +1,9 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\bin\Debug\GenericTest.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\bin\Debug\GenericTest.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\bin\Debug\GenericTest.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\obj\Debug\GenericTest.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\obj\Debug\GenericTest.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\GenericTest\GenericTest\obj\Debug\GenericTest.pdb
+G:\BackUp_Sln\GenericTest\GenericTest\bin\Debug\GenericTest.exe.config
+G:\BackUp_Sln\GenericTest\GenericTest\obj\Debug\GenericTest.exe
+G:\BackUp_Sln\GenericTest\GenericTest\obj\Debug\GenericTest.pdb

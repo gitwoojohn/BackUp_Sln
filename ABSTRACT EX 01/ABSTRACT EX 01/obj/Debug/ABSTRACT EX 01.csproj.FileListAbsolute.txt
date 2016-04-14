@@ -1,0 +1,2 @@
+G:\Project\1_A New Start\ABSTRACT EX 01\ABSTRACT EX 01\bin\Debug\ABSTRACT EX 01.exe.config
+G:\BackUp_Sln\ABSTRACT EX 01\ABSTRACT EX 01\bin\Debug\ABSTRACT EX 01.exe.config

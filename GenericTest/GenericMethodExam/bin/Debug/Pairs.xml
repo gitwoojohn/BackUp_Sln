@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPair xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pair>
+    <Id>1</Id>
+    <Name>홍길동</Name>
+  </Pair>
+  <Pair>
+    <Id>2</Id>
+    <Name>루저</Name>
+  </Pair>
+  <Pair>
+    <Id>3</Id>
+    <Name>위너</Name>
+  </Pair>
+</ArrayOfPair>

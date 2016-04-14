@@ -1,0 +1,1 @@
+G:\Project\CSharp\Learn\Delegate and Event\Event Basic 04\bin\Debug\Event Basic 04.exe.config

@@ -1,0 +1,9 @@
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\bin\Debug\Generic EX 01.exe.config
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\bin\Debug\Generic EX 01.exe
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\bin\Debug\Generic EX 01.pdb
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\obj\Debug\Generic EX 01.csprojResolveAssemblyReference.cache
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\obj\Debug\Generic EX 01.exe
+G:\Project\1_A New Start\Generic EX 01\Generic EX 01\obj\Debug\Generic EX 01.pdb
+G:\BackUp_Sln\Generic EX 01\Generic EX 01\bin\Debug\Generic EX 01.exe.config
+G:\BackUp_Sln\Generic EX 01\Generic EX 01\obj\Debug\Generic EX 01.exe
+G:\BackUp_Sln\Generic EX 01\Generic EX 01\obj\Debug\Generic EX 01.pdb

@@ -1,0 +1,9 @@
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\bin\Debug\BenchMark.HashSet.ConsoleApp.exe.config
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\bin\Debug\BenchMark.HashSet.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\bin\Debug\BenchMark.HashSet.ConsoleApp.pdb
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\obj\Debug\BenchMark.HashSet.ConsoleApp.csprojResolveAssemblyReference.cache
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\obj\Debug\BenchMark.HashSet.ConsoleApp.exe
+G:\Project\1_A New Start\Generic EX 01\BenchMark.HashSet.ConsoleApp\obj\Debug\BenchMark.HashSet.ConsoleApp.pdb
+G:\BackUp_Sln\Generic EX 01\BenchMark.HashSet.ConsoleApp\bin\Debug\BenchMark.HashSet.ConsoleApp.exe.config
+G:\BackUp_Sln\Generic EX 01\BenchMark.HashSet.ConsoleApp\obj\Debug\BenchMark.HashSet.ConsoleApp.exe
+G:\BackUp_Sln\Generic EX 01\BenchMark.HashSet.ConsoleApp\obj\Debug\BenchMark.HashSet.ConsoleApp.pdb

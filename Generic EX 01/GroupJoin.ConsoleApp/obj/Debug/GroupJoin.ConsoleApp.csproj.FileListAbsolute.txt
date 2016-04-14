@@ -1,0 +1,6 @@
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\bin\Debug\GroupJoin.ConsoleApp.exe.config
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\bin\Debug\GroupJoin.ConsoleApp.exe
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\bin\Debug\GroupJoin.ConsoleApp.pdb
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\obj\Debug\GroupJoin.ConsoleApp.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\obj\Debug\GroupJoin.ConsoleApp.exe
+G:\BackUp_Sln\Generic EX 01\GroupJoin.ConsoleApp\obj\Debug\GroupJoin.ConsoleApp.pdb
