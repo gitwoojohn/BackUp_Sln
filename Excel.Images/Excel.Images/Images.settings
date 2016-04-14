@@ -1,0 +1,122 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ImageMso.Excel" GeneratedClassName="Images">
+  <Profiles />
+  <Settings>
+    <Setting Name="Copyright" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Copyright © 2013 Alton Lam
+
+This software is provided 'as-is', without any express or implied
+warranty. In no event will the authors be held liable for any damages
+arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose,
+including commercial applications, and to alter it and redistribute it
+freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not
+   claim that you wrote the original software. If you use this software
+   in a product, an acknowledgment in the product documentation would be
+   appreciated but is not required.
+
+2. Altered source versions must be plainly marked as such, and must not be
+   misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.</Value>
+    </Setting>
+    <Setting Name="Help" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://imagemso.codeplex.com/documentation</Value>
+    </Setting>
+    <Setting Name="Names" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /&gt;</Value>
+    </Setting>
+    <Setting Name="NamesBottom" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;L&lt;/string&gt;
+  &lt;string&gt;LabelFontDialog&lt;/string&gt;
+  &lt;string&gt;LabelInsert&lt;/string&gt;
+  &lt;string&gt;LabelsDialog&lt;/string&gt;
+  &lt;string&gt;LanguageCommands&lt;/string&gt;
+  &lt;string&gt;LargeEraser&lt;/string&gt;
+  &lt;string&gt;LargeIcons&lt;/string&gt;
+  &lt;string&gt;LassoSelect&lt;/string&gt;
+  &lt;string&gt;LassoSelectVisio&lt;/string&gt;
+  &lt;string&gt;LastModifiedBy&lt;/string&gt;
+  &lt;string&gt;LastPage&lt;/string&gt;
+  &lt;string&gt;LastTile&lt;/string&gt;
+  &lt;string&gt;LateTasks&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="NamesTop" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;_0&lt;/string&gt;
+  &lt;string&gt;_1&lt;/string&gt;
+  &lt;string&gt;_2&lt;/string&gt;
+  &lt;string&gt;_3&lt;/string&gt;
+  &lt;string&gt;_4&lt;/string&gt;
+  &lt;string&gt;_5&lt;/string&gt;
+  &lt;string&gt;_6&lt;/string&gt;
+  &lt;string&gt;_7&lt;/string&gt;
+  &lt;string&gt;_8&lt;/string&gt;
+  &lt;string&gt;_9&lt;/string&gt;
+  &lt;string&gt;_0PercentComplete&lt;/string&gt;
+  &lt;string&gt;_25PercentComplete&lt;/string&gt;
+  &lt;string&gt;_50PercentComplete&lt;/string&gt;
+  &lt;string&gt;_75PercentComplete&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Exclude2007" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;_0PercentComplete&lt;/string&gt;
+  &lt;string&gt;_100PercentComplete&lt;/string&gt;
+  &lt;string&gt;_25PercentComplete&lt;/string&gt;
+  &lt;string&gt;_3DLightGallery&lt;/string&gt;
+  &lt;string&gt;_3DMaterialGallery&lt;/string&gt;
+  &lt;string&gt;_50PercentComplete&lt;/string&gt;
+  &lt;string&gt;_75PercentComplete&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Exclude2010" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;_3DLightGallery&lt;/string&gt;
+  &lt;string&gt;_3DMaterialGallery&lt;/string&gt;
+  &lt;string&gt;AcetateModeOriginalMarkup&lt;/string&gt;
+  &lt;string&gt;AddChartElementMenu&lt;/string&gt;
+  &lt;string&gt;AddHorizontalGuide&lt;/string&gt;
+  &lt;string&gt;AddVerticalGuide&lt;/string&gt;
+  &lt;string&gt;AdvancedObjectMenu&lt;/string&gt;
+  &lt;string&gt;AfterDeleteSql&lt;/string&gt;
+  &lt;string&gt;AfterInsertSql&lt;/string&gt;
+  &lt;string&gt;AfterUpdateSql&lt;/string&gt;
+  &lt;string&gt;AlignGallery&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Exclude2013" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;JotInkStyle1&lt;/string&gt;
+  &lt;string&gt;JotSendPdf&lt;/string&gt;
+  &lt;string&gt;MeetingRequest&lt;/string&gt;
+  &lt;string&gt;OfficeDiagnostics&lt;/string&gt;
+  &lt;string&gt;ProjectTaskDrivers&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Exclude2016" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;JotInkStyle1&lt;/string&gt;
+  &lt;string&gt;JotSendPdf&lt;/string&gt;
+  &lt;string&gt;MeetingRequest&lt;/string&gt;
+  &lt;string&gt;OfficeDiagnostics&lt;/string&gt;
+  &lt;string&gt;ProjectTaskDrivers&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Setting" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

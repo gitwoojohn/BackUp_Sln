@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\bin\Debug\ImageMso.Excel.dll.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\bin\Debug\ImageMso.Excel.dll
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\bin\Debug\ImageMso.Excel.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\bin\Debug\ExcelDna.Integration.dll
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\obj\Debug\ImageMso.Excel.dll
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\obj\Debug\ImageMso.Excel.pdb

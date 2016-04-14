@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageMso.Excel</name>
+    </assembly>
+    <members>
+        <member name="T:ImageMso.Excel.Images">
+            <summary>Encapsulates collections, methods and structures to extract ImageMso icons from the Microsoft Excel application.</summary>
+            <remarks><para>The collection of 8,899 distinct ImageMso names in this class are a composite list formed by the union of values 
+            collected from "2007 Office System Add-In: Icons Gallery", "Office 2010 Add-In: Icons Gallery", "Appendix A: Custom UI Control 
+            ID Tables, [MS-CUSTOMUI]: imageMso Table" and "Microsoft Office Document: [MS-CUSTOMUI2] Supporting Documentation".</para>
+            <para>The methods and structures in this class are based off the answer provided on Stack Overflow by Ismail Degani in response 
+            to the question "How to save ImageMSO icon from Microsoft Office 2007?" which was in turn based off the MSDN blog post 
+            "Preserving the alpha channel when converting images" by Andrew Whitechapel.</para>
+            <seealso href="https://www.microsoft.com/en-us/download/details.aspx?id=11675">
+            2007 Office System Add-In: Icons Gallery</seealso>
+            <seealso href="https://www.microsoft.com/en-us/download/details.aspx?id=21103">
+            Office 2010 Add-In: Icons Gallery</seealso>
+            <seealso href="http://msdn.microsoft.com/en-us/library/dd953682.aspx">
+            Appendix A: Custom UI Control ID Tables, [MS-CUSTOMUI]: imageMso Table</seealso>
+            <seealso href="https://www.microsoft.com/en-us/download/details.aspx?id=727">
+            Microsoft Office Document: [MS-CUSTOMUI2] Supporting Documentation</seealso>
+            <seealso href="http://stackoverflow.com/questions/1073322/how-to-save-imagemso-icon-from-microsoft-office-2007">
+            How to save ImageMSO icon from Microsoft Office 2007?</seealso>
+            <seealso href="http://blogs.msdn.com/b/andreww/archive/2007/10/10/preserving-the-alpha-channel-when-converting-images.aspx">
+            Preserving the alpha channel when converting images</seealso>
+            </remarks>
+        </member>
+        <member name="M:ImageMso.Excel.Images.#ctor">
+            <summary>Initializes a new instance of the <see cref="T:ImageMso.Excel.Images" /> class.
+            Intended only for use by the static <see cref="P:ImageMso.Excel.Images.Default" /> property.</summary>
+            <remarks>The constructor builds the complete sorted collection of distinct ImageMso 
+            names supported by the host Microsoft Office version by constructing from the partial 
+            collections and excluding the excluded ImageMso names for the host version of 
+            Microsoft Office. The exceedingly complex expressions, for applications settings such 
+            as the entire collection of distinct ImageMso names, are beyond the abilities of 
+            Visual Studio to compile as a whole but are workable in parts.</remarks>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Item(System.String,System.Int32,System.Int32)">
+            <summary>Draws a <see cref="T:System.Drawing.Bitmap" /> copy of the ImageMso 
+            from Microsoft Excel at the specified width and height.</summary>
+            <param name="name">ImageMso name.</param>
+            <param name="width">Width in pixels.</param>
+            <param name="height">Height in pixels.</param>
+            <returns>This method returns a <see cref="T:System.Drawing.Bitmap" /> image of the
+            specified ImageMso copied from Microsoft Excel with the specified width and height
+            or null if the specified ImageMso is not supported by the host version of Microsoft
+            Office.</returns>
+            <remarks>This method wraps the static <see cref="M:ImageMso.Excel.Images.Draw(System.String,System.Int32,System.Int32)" />
+            method for instantiated classes.</remarks>
+        </member>
+        <member name="M:ImageMso.Excel.Images.Draw(System.String,System.Int32,System.Int32)">
+            <summary>Draws a <see cref="T:System.Drawing.Bitmap" /> copy of the ImageMso 
+            from Microsoft Excel at the specified width and height.</summary>
+            <param name="name">ImageMso name.</param>
+            <param name="width">Width in pixels. Default is 32.</param>
+            <param name="height">Height in pixels. Default is 32.</param>
+            <returns>This method returns a <see cref="T:System.Drawing.Bitmap" /> image of the
+            specified ImageMso copied from Microsoft Excel with the specified width and height
+            or null if the specified ImageMso is not supported by the host version of Microsoft
+            Office.</returns>
+            <remarks>This method gets the <see cref="T:stdole.IPictureDisp" /> from the Microsoft 
+            Excel application, checks if the image is 24bpp RGB or 32bpp ARGB and copies the 
+            image pixel for pixel to a new Bitmap to preserve or discard the alpha channel.
+            </remarks>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Default">
+            <summary>
+            Images Default
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Copyright">
+            <summary>
+            Copyright © 2013 Alton Lam. All rights reserved.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Help">
+            <summary>
+            Gets the application support URL.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Names">
+            <summary>
+            Gets the collection of distinct ImageMso names supported by the host version of Microsoft Office.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.NamesTop">
+            <summary>
+            Gets the top partial collection of 4,422 distinct ImageMso names from _ to K.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.NamesBottom">
+            <summary>
+            Gets the bottom partial collection of 4,477 distinct ImageMso names from L to Z.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Exclude2007">
+            <summary>
+            Gets the collection of 5,604 distinct ImageMso names not supported by Microsoft Office 2007.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Exclude2010">
+            <summary>
+            Gets the collection of 466 distinct ImageMso names not supported by Microsoft Office 2010.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Exclude2013">
+            <summary>
+            Gets the collection of 5 distinct ImageMso names not supported by Microsoft Office 2013.
+            </summary>
+        </member>
+        <member name="P:ImageMso.Excel.Images.Exclude2016">
+            <summary>
+            Gets the collection of 5 distinct ImageMso names not supported by Microsoft Office 2013.
+            </summary>
+        </member>
+    </members>
+</doc>
