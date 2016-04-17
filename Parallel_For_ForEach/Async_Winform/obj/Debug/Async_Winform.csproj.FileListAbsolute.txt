@@ -1,0 +1,12 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\bin\Debug\Async_Winform.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\bin\Debug\Async_Winform.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\bin\Debug\Async_Winform.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.Form1.resources
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.Properties.Resources.resources
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.csproj.GenerateResource.Cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Async_Winform\bin\Debug\Async_Winform.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Async_Winform\obj\Debug\Async_Winform.pdb

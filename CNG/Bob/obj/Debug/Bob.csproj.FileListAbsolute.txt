@@ -1,0 +1,12 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\bin\Debug\Bob.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\bin\Debug\Bob.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\bin\Debug\Bob.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\obj\Debug\Bob.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Bob\obj\Debug\Bob.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\bin\Debug\Bob.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\obj\Debug\Bob.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\obj\Debug\Bob.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\bin\Debug\Bob.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\bin\Debug\Bob.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache

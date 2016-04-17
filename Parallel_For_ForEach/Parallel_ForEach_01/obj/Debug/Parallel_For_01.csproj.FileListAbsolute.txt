@@ -1,0 +1,8 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_01\bin\Debug\Parallel_ForEach_01.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_01\bin\Debug\Parallel_ForEach_01.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_01\bin\Debug\Parallel_ForEach_01.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_01\obj\Debug\Parallel_ForEach_01.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_01\obj\Debug\Parallel_ForEach_01.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_ForEach_01\bin\Debug\Parallel_ForEach_01.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_ForEach_01\obj\Debug\Parallel_ForEach_01.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_ForEach_01\obj\Debug\Parallel_ForEach_01.pdb

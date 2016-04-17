@@ -1,0 +1,6 @@
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\bin\Debug\ThreadLocalForEach.exe.config
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\bin\Debug\ThreadLocalForEach.exe
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\bin\Debug\ThreadLocalForEach.pdb
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\obj\Debug\ThreadLocalForEach.csprojResolveAssemblyReference.cache
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\obj\Debug\ThreadLocalForEach.exe
+c:\users\sapphire\documents\visual studio 2015\Projects\Parallel_ForEach_01\ThreadLocalForEach\obj\Debug\ThreadLocalForEach.pdb

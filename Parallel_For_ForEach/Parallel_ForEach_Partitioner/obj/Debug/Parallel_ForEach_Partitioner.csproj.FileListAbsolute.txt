@@ -1,0 +1,5 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Partitioner\bin\Debug\Parallel_ForEach_Partitioner.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Partitioner\bin\Debug\Parallel_ForEach_Partitioner.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Partitioner\bin\Debug\Parallel_ForEach_Partitioner.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Partitioner\obj\Debug\Parallel_ForEach_Partitioner.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Partitioner\obj\Debug\Parallel_ForEach_Partitioner.pdb

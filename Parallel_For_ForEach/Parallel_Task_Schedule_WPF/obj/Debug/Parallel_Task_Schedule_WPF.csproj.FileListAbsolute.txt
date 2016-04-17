@@ -1,0 +1,14 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\bin\Debug\Parallel_Task_Schedule_WPF.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\bin\Debug\Parallel_Task_Schedule_WPF.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\bin\Debug\Parallel_Task_Schedule_WPF.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\App.g.cs
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF_MarkupCompile.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF_MarkupCompile.lref
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\MainWindow.baml
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.g.resources
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.Properties.Resources.resources
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.csproj.GenerateResource.Cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Task_Schedule_WPF\obj\Debug\Parallel_Task_Schedule_WPF.pdb

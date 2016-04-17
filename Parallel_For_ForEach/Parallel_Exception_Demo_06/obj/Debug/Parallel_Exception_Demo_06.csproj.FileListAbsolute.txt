@@ -1,0 +1,8 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Exception_Demo_06\bin\Debug\Parallel_Exception_Demo_06.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Exception_Demo_06\bin\Debug\Parallel_Exception_Demo_06.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Exception_Demo_06\bin\Debug\Parallel_Exception_Demo_06.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Exception_Demo_06\obj\Debug\Parallel_Exception_Demo_06.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Exception_Demo_06\obj\Debug\Parallel_Exception_Demo_06.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Exception_Demo_06\bin\Debug\Parallel_Exception_Demo_06.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Exception_Demo_06\obj\Debug\Parallel_Exception_Demo_06.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_Exception_Demo_06\obj\Debug\Parallel_Exception_Demo_06.pdb

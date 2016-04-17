@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\bin\Debug\RNGCryptoServiceProvider.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\bin\Debug\RNGCryptoServiceProvider.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\bin\Debug\RNGCryptoServiceProvider.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\obj\Debug\RNGCryptoServiceProvider.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\obj\Debug\RNGCryptoServiceProvider.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\RNGCryptoServiceProvider\obj\Debug\RNGCryptoServiceProvider.pdb

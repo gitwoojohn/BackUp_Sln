@@ -1,0 +1,12 @@
+c:\users\sapphire\documents\visual studio 2015\Projects\Alice\CNG_SecureCommunicationExample\bin\Debug\Alice.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Alice\bin\Debug\Alice.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Alice\bin\Debug\Alice.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Alice\bin\Debug\Alice.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Alice\obj\Debug\Alice.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Alice\Alice\obj\Debug\Alice.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\bin\Debug\Alice.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\obj\Debug\Alice.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\obj\Debug\Alice.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\bin\Debug\Alice.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\bin\Debug\Alice.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\obj\Debug\Alice.csprojResolveAssemblyReference.cache

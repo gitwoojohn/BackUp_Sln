@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\bin\Debug\Parallel_ForEach_02.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\bin\Debug\Parallel_ForEach_02.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\bin\Debug\Parallel_ForEach_02.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\obj\Debug\Parallel_ForEach_02.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\obj\Debug\Parallel_ForEach_02.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_02\obj\Debug\Parallel_ForEach_02.pdb

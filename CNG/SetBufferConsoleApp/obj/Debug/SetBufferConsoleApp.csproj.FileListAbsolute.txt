@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\bin\Debug\SetBufferConsoleApp.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\bin\Debug\SetBufferConsoleApp.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\bin\Debug\SetBufferConsoleApp.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\obj\Debug\SetBufferConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\obj\Debug\SetBufferConsoleApp.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\SetBufferConsoleApp\obj\Debug\SetBufferConsoleApp.pdb

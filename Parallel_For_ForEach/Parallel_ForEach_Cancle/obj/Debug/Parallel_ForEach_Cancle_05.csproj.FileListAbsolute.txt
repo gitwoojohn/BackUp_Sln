@@ -1,0 +1,5 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Cancle\bin\Debug\Parallel_ForEach_Cancle.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Cancle\bin\Debug\Parallel_ForEach_Cancle.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Cancle\bin\Debug\Parallel_ForEach_Cancle.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Cancle\obj\Debug\Parallel_ForEach_Cancle.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_ForEach_Cancle\obj\Debug\Parallel_ForEach_Cancle.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\bin\Debug\Task_AggregateException.exe.config
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\bin\Debug\Task_AggregateException.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\bin\Debug\Task_AggregateException.pdb
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\obj\Debug\Task_AggregateException.csprojResolveAssemblyReference.cache
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\obj\Debug\Task_AggregateException.exe
+C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Task_AggregateException\obj\Debug\Task_AggregateException.pdb
