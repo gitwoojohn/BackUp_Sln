@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using System.Collections.Concurrent;
 
 namespace Cancellation_Token_ReadFile
 {
@@ -16,9 +17,30 @@ namespace Cancellation_Token_ReadFile
             //PLinQ_AsParallel();
             //PLinQ_Cancel();
 
+            var nums = Enumerable.Range( 10, 10000 );
+            var query = from num in nums.AsParallel()
+                        where num % 10 == 0
+                        select num;
+
+            // Process the results as each thread completes
+            // and add them to a System.Collections.Concurrent.ConcurrentBag(Of Int)
+            // which can safely accept concurrent add operations
+            ConcurrentBag<int> cb = new ConcurrentBag<int>();
+            query.ForAll( e =>  cb.Add( Compute( e ) ) );
+
+            foreach( var item in cb )
+            {
+                item.ToString();
+            }
+
             Console.ReadKey();
         }
- 
+
+        private static int Compute( int e )
+        {
+            return e += e;
+        }
+
         public static void PLinQ_Cancel()
         {
             CancellationTokenSource cts = new CancellationTokenSource();

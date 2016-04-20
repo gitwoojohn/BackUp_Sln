@@ -10,3 +10,9 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\obj\Debug\Alic
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\bin\Debug\Alice.exe
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\bin\Debug\Alice.pdb
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Alice\obj\Debug\Alice.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\CNG\Alice\bin\Debug\Alice.exe.config
+G:\BackUp_Sln\CNG\Alice\obj\Debug\Alice.exe
+G:\BackUp_Sln\CNG\Alice\obj\Debug\Alice.pdb
+G:\BackUp_Sln\CNG\Alice\bin\Debug\Alice.exe
+G:\BackUp_Sln\CNG\Alice\bin\Debug\Alice.pdb
+G:\BackUp_Sln\CNG\Alice\obj\Debug\Alice.csprojResolveAssemblyReference.cache

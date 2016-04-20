@@ -10,3 +10,6 @@ G:\VS2015Project\C#\1_Task Parallel Async\Parallel_ForEach_01\PLINQCancellation_
 G:\VS2015Project\C#\1_Task Parallel Async\Parallel_ForEach_01\PLINQCancellation_2\bin\Debug\PLINQCancellation_2.pdb
 G:\VS2015Project\C#\1_Task Parallel Async\Parallel_ForEach_01\PLINQCancellation_2\obj\Debug\PLINQCancellation_2.csprojResolveAssemblyReference.cache
 G:\VS2015Project\C#\1_Task Parallel Async\Parallel_ForEach_01\PLINQCancellation_2\obj\Debug\PLINQCancellation_2.pdb
+G:\BackUp_Sln\Parallel_For_ForEach\PLINQCancellation_2\bin\Debug\PLINQCancellation_2.exe.config
+G:\BackUp_Sln\Parallel_For_ForEach\PLINQCancellation_2\obj\Debug\PLINQCancellation_2.exe
+G:\BackUp_Sln\Parallel_For_ForEach\PLINQCancellation_2\obj\Debug\PLINQCancellation_2.pdb

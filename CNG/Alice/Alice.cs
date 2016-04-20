@@ -9,6 +9,7 @@ namespace Cryptography_Next_Generation
         // Global variables
         static int MyColor = 4;                // Alice는 녹색으로 표시
         static int OtherColor = 2;             // Bob은 흰색으로 표시
+
         static void Main( string[] args )
         {
             if( !Autoloader() )                // Bob과 Mallory 자동 실행

@@ -33,7 +33,7 @@ namespace Cryptography_Next_Generation
         static bool Autoloader()
         {
             Process[] AliceProcess = Process.GetProcessesByName( "Alice" );
-            if( AliceProcess.Length > 0 )
+            if( AliceProcess.Length <= 0 )  // > 0
             {
                 try
                 {
@@ -119,6 +119,7 @@ namespace Cryptography_Next_Generation
 
                         "5 = 메시지 암호화, 개인 키와 암호화 키를 사용해서 메시지들을 디지털 서명 합니다.\n" +
                         "    개인키를 사용해서 메시지들을 디지털 서명 합니다.\n" +
+                        "    서명된 키가 변조 되었다면 접속 세션을 종료합니다.\n" +
                         "    Encrypt messages, use private key to digitally sign messages.\n" +
                         "    and cryptographic keys. Terminate on all security failures.\n\n" +
                         "x = 종료( Exit )\n\n", 1 );
@@ -133,7 +134,7 @@ namespace Cryptography_Next_Generation
 
                 if( Version != 1 )
                 {
-                    Display( "상세한 출력 모드 사용(Verbose output mode) Y/N\n", 1 );
+                    Display( "상세 출력 모드 사용(Verbose output mode) Y/N\n", 1 );
                     fVerbose = "y" == ReadAChar( "ynYN" ) ? true : false;
                 }
             }

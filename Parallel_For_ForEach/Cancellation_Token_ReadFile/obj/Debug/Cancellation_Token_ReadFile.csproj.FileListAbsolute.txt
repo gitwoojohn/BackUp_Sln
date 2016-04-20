@@ -4,3 +4,9 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.csprojResolveAssemblyReference.cache
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.exe
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.pdb
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancellation_Token_ReadFile.exe.config
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.exe
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancellation_Token_ReadFile.exe
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancellation_Token_ReadFile.pdb
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.pdb

@@ -33,7 +33,7 @@ namespace Cryptography_Next_Generation
                     if( "exit" == options ) return "exit";
                     fVerbose = options.Substring( 0, 1 ) == "y" ? true : false;
                     fMallory = options.Substring( 1, 1 ) == "y" ? true : false;
-                    Version = Int32.Parse( options.Substring( 2, 1 ) );
+                    Version = int.Parse( options.Substring( 2, 1 ) );
                 }
             }
             return "";
