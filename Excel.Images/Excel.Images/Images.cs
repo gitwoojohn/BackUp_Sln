@@ -30,7 +30,7 @@ using System;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
-
+using System.Threading.Tasks;
 using ExcelDna.Integration;
 
 using Microsoft.Office.Interop.Excel;
@@ -38,11 +38,11 @@ using Microsoft.Office.Interop.Excel;
 namespace ImageMso.Excel
 {
     ///<summary>Encapsulates collections, methods and structures to extract ImageMso icons from the Microsoft Excel application.</summary>
-    ///<remarks><para>The collection of 8,899 distinct ImageMso names in this class are a composite list formed by the union of values 
-    ///collected from "2007 Office System Add-In: Icons Gallery", "Office 2010 Add-In: Icons Gallery", "Appendix A: Custom UI Control 
+    ///<remarks><para>The collection of 8,899 distinct ImageMso names in this class are a composite list formed by the union of values
+    ///collected from "2007 Office System Add-In: Icons Gallery", "Office 2010 Add-In: Icons Gallery", "Appendix A: Custom UI Control
     ///ID Tables, [MS-CUSTOMUI]: imageMso Table" and "Microsoft Office Document: [MS-CUSTOMUI2] Supporting Documentation".</para>
-    ///<para>The methods and structures in this class are based off the answer provided on Stack Overflow by Ismail Degani in response 
-    ///to the question "How to save ImageMSO icon from Microsoft Office 2007?" which was in turn based off the MSDN blog post 
+    ///<para>The methods and structures in this class are based off the answer provided on Stack Overflow by Ismail Degani in response
+    ///to the question "How to save ImageMSO icon from Microsoft Office 2007?" which was in turn based off the MSDN blog post
     ///"Preserving the alpha channel when converting images" by Andrew Whitechapel.</para>
     ///<seealso href="https://www.microsoft.com/en-us/download/details.aspx?id=11675">
     ///2007 Office System Add-In: Icons Gallery</seealso>
@@ -61,11 +61,11 @@ namespace ImageMso.Excel
     {
         ///<summary>Initializes a new instance of the <see cref="Images" /> class.
         ///Intended only for use by the static <see cref="Images.Default" /> property.</summary>
-        ///<remarks>The constructor builds the complete sorted collection of distinct ImageMso 
-        ///names supported by the host Microsoft Office version by constructing from the partial 
-        ///collections and excluding the excluded ImageMso names for the host version of 
-        ///Microsoft Office. The exceedingly complex expressions, for applications settings such 
-        ///as the entire collection of distinct ImageMso names, are beyond the abilities of 
+        ///<remarks>The constructor builds the complete sorted collection of distinct ImageMso
+        ///names supported by the host Microsoft Office version by constructing from the partial
+        ///collections and excluding the excluded ImageMso names for the host version of
+        ///Microsoft Office. The exceedingly complex expressions, for applications settings such
+        ///as the entire collection of distinct ImageMso names, are beyond the abilities of
         ///Visual Studio to compile as a whole but are workable in parts.</remarks>
         private Images()
         {   // Remove ImageMso names not supported by the host version of Microsoft Office.
@@ -90,7 +90,7 @@ namespace ImageMso.Excel
             }
         }
 
-        ///<summary>Draws a <see cref="System.Drawing.Bitmap" /> copy of the ImageMso 
+        ///<summary>Draws a <see cref="System.Drawing.Bitmap" /> copy of the ImageMso
         ///from Microsoft Excel at the specified width and height.</summary>
         ///<param name="name">ImageMso name.</param>
         ///<param name="width">Width in pixels.</param>
@@ -106,7 +106,73 @@ namespace ImageMso.Excel
             get { return Draw( name, width, height ); }
         }
 
-        ///<summary>Draws a <see cref="System.Drawing.Bitmap" /> copy of the ImageMso 
+        Task<Bitmap> RenderAsync( string name, int width = 32, int height = 32 )
+        {
+            return Task.Run( () =>
+            {
+                try
+                {   // Throws an ArgumentException if the ImageMso name is not supported.
+                    var ipd = ( ( Application )ExcelDnaUtil.Application ).CommandBars.GetImageMso( name, width, height );
+
+                    // Gets the info about the HBITMAP inside the IPictureDisp.
+                    var dibsection = new DIBSECTION();
+                    GetObjectDIBSection( ( IntPtr )ipd.Handle, Marshal.SizeOf( dibsection ), ref dibsection );
+                    var w = dibsection.dsBm.bmWidth;
+                    var h = dibsection.dsBm.bmHeight;
+
+                    // Create the destination Bitmap object.
+                    var image = new Bitmap( w, h, PixelFormat.Format32bppArgb );
+
+                    unsafe
+                    {
+                        // Gets a pointer to the raw bits.
+                        var pBits = ( RGBQUAD* )( void* )dibsection.dsBm.bmBits;
+
+                        // Scan the image to check if alpha channel is empty
+                        // 24bpp RGB when false, 32bpp ARGB when true.
+                        bool alpha = false;
+                        for( int x = 0; x < dibsection.dsBmih.biWidth; x++ )
+                            for( int y = 0; y < dibsection.dsBmih.biHeight; y++ )
+                                alpha |= pBits[ y * dibsection.dsBmih.biWidth + x ].rgbReserved != 0;
+
+                        // Copy each pixel byte for byte.
+                        for( int x = 0; x < dibsection.dsBmih.biWidth; x++ )
+                            for( int y = 0; y < dibsection.dsBmih.biHeight; y++ )
+                            {
+                                var offset = y * dibsection.dsBmih.biWidth + x;
+                                if( pBits[ offset ].rgbReserved != 0 )
+                                    image.SetPixel( x, y, Color.FromArgb( pBits[ offset ].rgbReserved, pBits[ offset ].rgbRed, pBits[ offset ].rgbGreen, pBits[ offset ].rgbBlue ) );
+                                else if( !alpha )
+                                    image.SetPixel( x, y, Color.FromArgb( pBits[ offset ].rgbRed, pBits[ offset ].rgbGreen, pBits[ offset ].rgbBlue ) );
+                            }
+                    }
+                    return image;
+                }
+                catch( ArgumentException )
+                {   // The ImageMso name or dimensions are not supported.
+                    return null;
+                }
+            } );
+        }
+
+        //internal Task<Bitmap> RenderAsync( ImageData data, CancellationToken cancellationToken )
+        //{
+        //    return Task.Run( () =>
+        //    {
+        //        var bmp = new Bitmap( data.Width, data.Height );
+        //        for( int y = 0; y < data.Height; y++ )
+        //        {
+        //            cancellationToken.ThrowIfCancellationRequested();
+        //            for( int x = 0; x < data.Width; x++ )
+        //            {
+        //                // render pixel [x,y] into bmp
+        //            }
+        //        }
+        //        return bmp;
+        //    }, cancellationToken );
+        //}
+
+        ///<summary>Draws a <see cref="System.Drawing.Bitmap" /> copy of the ImageMso
         ///from Microsoft Excel at the specified width and height.</summary>
         ///<param name="name">ImageMso name.</param>
         ///<param name="width">Width in pixels. Default is 32.</param>
@@ -115,12 +181,13 @@ namespace ImageMso.Excel
         ///specified ImageMso copied from Microsoft Excel with the specified width and height
         ///or null if the specified ImageMso is not supported by the host version of Microsoft
         ///Office.</returns>
-        ///<remarks>This method gets the <see cref="stdole.IPictureDisp" /> from the Microsoft 
-        ///Excel application, checks if the image is 24bpp RGB or 32bpp ARGB and copies the 
+        ///<remarks>This method gets the <see cref="stdole.IPictureDisp" /> from the Microsoft
+        ///Excel application, checks if the image is 24bpp RGB or 32bpp ARGB and copies the
         ///image pixel for pixel to a new Bitmap to preserve or discard the alpha channel.
         ///</remarks>
         public static Bitmap Draw( string name, int width = 32, int height = 32 )
         {
+
             try
             {   // Throws an ArgumentException if the ImageMso name is not supported.
                 var ipd = ( ( Application )ExcelDnaUtil.Application ).CommandBars.GetImageMso( name, width, height );

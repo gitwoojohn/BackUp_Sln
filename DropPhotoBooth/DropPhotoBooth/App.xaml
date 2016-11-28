@@ -1,0 +1,15 @@
+﻿<Application
+    x:Class="DropPhotoBooth.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DropPhotoBooth"
+    RequestedTheme="Light">
+
+    <Application.Resources>
+        <local:BooleanToVisibilityConverter x:Key="VisibleIfTrueConverter" IfTrue="Visible" />
+        <local:BooleanToVisibilityConverter x:Key="CollapsedIfTrucConverter" IfTrue="Collapsed"/>
+        <local:NullToVisibilityConverter x:Key="VisibleIfNullConverter" IfNull="Visible"/>
+        <local:NullToVisibilityConverter x:Key="CollapsedIfNullConverter" IfNull="Collapsed"/>
+    </Application.Resources>
+
+</Application>

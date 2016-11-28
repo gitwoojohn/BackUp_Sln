@@ -10,3 +10,6 @@ G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancell
 G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancellation_Token_ReadFile.pdb
 G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.csprojResolveAssemblyReference.cache
 G:\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\bin\Debug\Cancellation_Token_ReadFile.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Cancellation_Token_ReadFile\obj\Debug\Cancellation_Token_ReadFile.pdb

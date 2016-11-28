@@ -10,3 +10,6 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\obj\Debug\Bob.pd
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\bin\Debug\Bob.exe
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\bin\Debug\Bob.pdb
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\CNG\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache
+G:\BackUp_Sln\CNG\Bob\bin\Debug\Bob.exe.config
+G:\BackUp_Sln\CNG\Bob\obj\Debug\Bob.exe
+G:\BackUp_Sln\CNG\Bob\obj\Debug\Bob.pdb

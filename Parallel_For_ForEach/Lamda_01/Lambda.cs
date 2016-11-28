@@ -38,18 +38,18 @@ namespace Lamda_01
         {
             // 결과 홀수 5개
             int[] numbers = { 4, 8, 6, 3, 9, 0, 1, 7, 2, 5 };
-            var  oddNumbers = numbers.Count( n => n % 2 == 1 );
-            Console.WriteLine( oddNumbers);
+            var oddNumbers = numbers.Count( n => n % 2 == 1 );
+            Console.WriteLine( oddNumbers );
 
             // 결과 : false
             Func<int, bool> myFunc = x => x == 5;
             bool result = myFunc( 4 );
 
-            
-            var firstSmallNumbers = numbers.TakeWhile((n, index) => n >= index);
+
+            var firstSmallNumbers = numbers.TakeWhile( ( n, index ) => n >= index );
             foreach( var item in firstSmallNumbers )
             {
-                Console.Write("{0}  ", item );
+                Console.Write( "{0}  ", item );
             }
 
             // 

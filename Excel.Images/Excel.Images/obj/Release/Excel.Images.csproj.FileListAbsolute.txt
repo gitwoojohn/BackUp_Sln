@@ -6,3 +6,11 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Image
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\obj\Release\Excel.Images.csprojResolveAssemblyReference.cache
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\obj\Release\ImageMso.Excel.dll
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Excel.Images\Excel.Images\obj\Release\ImageMso.Excel.pdb
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\bin\Release\ImageMso.Excel.XML
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\obj\Release\Excel.Images.csprojResolveAssemblyReference.cache
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\obj\Release\ImageMso.Excel.dll
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\obj\Release\ImageMso.Excel.pdb
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\bin\Release\ImageMso.Excel.dll.config
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\bin\Release\ImageMso.Excel.dll
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\bin\Release\ImageMso.Excel.pdb
+D:\ba\BackUp_Sln\Excel.Images\Excel.Images\bin\Release\ExcelDna.Integration.dll

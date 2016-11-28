@@ -135,8 +135,8 @@ namespace ImageMso.Excel
         {
             Application.EnableVisualStyles();
 
-            this.Show();
-            this.Activate();
+            Show();
+            Activate();
         }
 
         ///<summary>Runs when the Excel Add-In is detached. Cleans up resources no longer being used.</summary>
