@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\PLINQCancellation_2.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\PLINQCancellation_2.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\PLINQCancellation_2.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{CCBE90D6-4563-465E-84EA-0530E7F65ED1}\PLINQCancellation_2.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{CCBE90D6-4563-465E-84EA-0530E7F65ED1}\PLINQCancellation_2.pdb

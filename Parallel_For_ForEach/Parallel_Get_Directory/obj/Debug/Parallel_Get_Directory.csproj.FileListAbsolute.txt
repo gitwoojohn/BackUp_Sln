@@ -3,3 +3,8 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Para
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Get_Directory\bin\Debug\Parallel_Get_Directory.pdb
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Get_Directory\obj\Debug\Parallel_Get_Directory.exe
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\Parallel_ForEach_01\Parallel_Get_Directory\obj\Debug\Parallel_Get_Directory.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_Get_Directory\bin\Debug\Parallel_Get_Directory.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_Get_Directory\bin\Debug\Parallel_Get_Directory.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_Get_Directory\bin\Debug\Parallel_Get_Directory.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_Get_Directory\obj\Debug\Parallel_Get_Directory.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_Get_Directory\obj\Debug\Parallel_Get_Directory.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel_For_01", "Parallel_ForEach_01\Parallel_For_01.csproj", "{65A9CE85-EE15-47A9-89DA-A89DD35DE39F}"
 EndProject
@@ -68,6 +68,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PLinQ", "PLinQ", "{E9088DC6-6B8A-4630-AF2B-1EC3F69F9B07}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLinQ_01", "PLinQ_01\PLinQ_01.csproj", "{440A440C-1B47-47F1-8941-1D75302A5B7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FastReadParallel", "FastReadParallel", "{DA398CDB-A411-4E6B-B9B8-444D2A3A6718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastReadParallel", "FastReadParallel\FastReadParallel.csproj", "{488FB138-0EB9-4332-91BB-FF6EC00E0E9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +195,10 @@ Global
 		{440A440C-1B47-47F1-8941-1D75302A5B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440A440C-1B47-47F1-8941-1D75302A5B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440A440C-1B47-47F1-8941-1D75302A5B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488FB138-0EB9-4332-91BB-FF6EC00E0E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488FB138-0EB9-4332-91BB-FF6EC00E0E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488FB138-0EB9-4332-91BB-FF6EC00E0E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488FB138-0EB9-4332-91BB-FF6EC00E0E9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -221,5 +229,6 @@ Global
 		{2414424D-3059-4DC3-9E70-44A820F7304C} = {45526B9A-5194-402D-A5A8-956770F3FD54}
 		{27B09641-AB69-4C55-BCCD-60EF828C2F02} = {45526B9A-5194-402D-A5A8-956770F3FD54}
 		{440A440C-1B47-47F1-8941-1D75302A5B7B} = {E9088DC6-6B8A-4630-AF2B-1EC3F69F9B07}
+		{488FB138-0EB9-4332-91BB-FF6EC00E0E9F} = {DA398CDB-A411-4E6B-B9B8-444D2A3A6718}
 	EndGlobalSection
 EndGlobal

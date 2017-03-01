@@ -1,0 +1,8 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Task_UserCancel_Button.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Task_UserCancel_Button.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Task_UserCancel_Button.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2B01F15E-80D6-4A50-B90D-7B41392245AE}\Task_UserCancel_Button.Form1.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2B01F15E-80D6-4A50-B90D-7B41392245AE}\Task_UserCancel_Button.Properties.Resources.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2B01F15E-80D6-4A50-B90D-7B41392245AE}\Task_UserCancel_Button.csproj.GenerateResource.Cache
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2B01F15E-80D6-4A50-B90D-7B41392245AE}\Task_UserCancel_Button.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2B01F15E-80D6-4A50-B90D-7B41392245AE}\Task_UserCancel_Button.pdb

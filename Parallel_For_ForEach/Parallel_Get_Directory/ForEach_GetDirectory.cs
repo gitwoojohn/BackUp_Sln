@@ -28,7 +28,7 @@ namespace Parallel_Get_Directory
                  // 파일 이름 출력
                  Console.WriteLine( f );
              } );
-            
+
             Console.ReadKey();
         }
 
@@ -44,7 +44,7 @@ namespace Parallel_Get_Directory
             // 서브폴더와 파일을 스택에 저장
             Stack<string> dirs = new Stack<string>();
 
-            if(!Directory.Exists(root))
+            if( !Directory.Exists( root ) )
             {
                 throw new ArgumentException();
             }
@@ -89,13 +89,13 @@ namespace Parallel_Get_Directory
                 // 파일 개수가 시스템 물리 CPU 카운터 보다 작다면 일반적인 출력
                 try
                 {
-                    if(files.Length < procCount)
+                    if( files.Length < procCount )
                     {
                         foreach( var file in files )
                         {
                             action( file );
                             fileCount++;
-                        }                       
+                        }
                     }
                     // 위와 반대
                     else
@@ -103,7 +103,7 @@ namespace Parallel_Get_Directory
                         Parallel.ForEach( files, () => 0, ( file, loopState, localCount ) =>
                          {
                              action( file );
-                             return ( int )++localCount;
+                             return ++localCount;
                          },
                         ( localCount ) =>
                         {
@@ -121,8 +121,8 @@ namespace Parallel_Get_Directory
                              return true;
                          }
 
-                        // 다른 예외를 여기에서 더 추가 처리( innerException )
-                        return false;
+                         // 다른 예외를 여기에서 더 추가 처리( innerException )
+                         return false;
                      } );
 
                     foreach( string str in subDirs )
@@ -130,7 +130,7 @@ namespace Parallel_Get_Directory
                         dirs.Push( str );
                     }
                 }
-                Console.WriteLine( "\n === Processed {0} files in {1} sec ===", fileCount, (sw.ElapsedMilliseconds / 1000f));
+                Console.WriteLine( "\n === Processed {0} files in {1} sec ===", fileCount, ( sw.ElapsedMilliseconds / 1000f ) );
             }
         }
     }

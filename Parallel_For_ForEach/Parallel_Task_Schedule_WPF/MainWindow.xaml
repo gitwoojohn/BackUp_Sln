@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="451.463" Width="299.561">
     <Grid Margin="0,0,12,7">
-        <Button x:Name="button" Content="start" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Width="99" Click="button_Click" Height="30"/>
+        <Button x:Name="button" Content="start" HorizontalAlignment="Left" Margin="30,10,0,0" VerticalAlignment="Top" Width="99" Click="Button_Click" Height="30"/>
         <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="30,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="212" RenderTransformOrigin="0.5,0.5">
             <TextBlock.RenderTransform>
                 <TransformGroup>

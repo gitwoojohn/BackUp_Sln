@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Lamda_01.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Lamda_01.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Lamda_01.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{A006F01A-BE42-4ECD-8266-7897A676C1BA}\Lamda_01.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{A006F01A-BE42-4ECD-8266-7897A676C1BA}\Lamda_01.pdb

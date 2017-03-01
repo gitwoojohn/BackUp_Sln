@@ -1,0 +1,6 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\bin\Debug\FastReadParallel.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\bin\Debug\FastReadParallel.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\bin\Debug\FastReadParallel.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\obj\Debug\FastReadParallel.csprojResolveAssemblyReference.cache
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\obj\Debug\FastReadParallel.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\FastReadParallel\obj\Debug\FastReadParallel.pdb

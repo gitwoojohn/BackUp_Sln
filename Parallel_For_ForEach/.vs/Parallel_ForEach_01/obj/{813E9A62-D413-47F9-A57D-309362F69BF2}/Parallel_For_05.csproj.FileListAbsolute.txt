@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_For_05.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_For_05.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_For_05.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{813E9A62-D413-47F9-A57D-309362F69BF2}\Parallel_For_05.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{813E9A62-D413-47F9-A57D-309362F69BF2}\Parallel_For_05.pdb

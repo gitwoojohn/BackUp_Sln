@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Cancle.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Cancle.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Cancle.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{6028D6AF-4FA2-4BC8-984D-2C1B1E34B1D8}\Parallel_ForEach_Cancle.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{6028D6AF-4FA2-4BC8-984D-2C1B1E34B1D8}\Parallel_ForEach_Cancle.pdb

@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Partitioner.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Partitioner.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_ForEach_Partitioner.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{E286CD02-1B09-4719-82D9-D638ED7B4304}\Parallel_ForEach_Partitioner.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{E286CD02-1B09-4719-82D9-D638ED7B4304}\Parallel_ForEach_Partitioner.pdb

@@ -1,0 +1,8 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Async_Winform.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Async_Winform.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Async_Winform.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{C69CB9CA-5815-4A09-B1E3-A4626DB2F67D}\Async_Winform.Form1.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{C69CB9CA-5815-4A09-B1E3-A4626DB2F67D}\Async_Winform.Properties.Resources.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{C69CB9CA-5815-4A09-B1E3-A4626DB2F67D}\Async_Winform.csproj.GenerateResource.Cache
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{C69CB9CA-5815-4A09-B1E3-A4626DB2F67D}\Async_Winform.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{C69CB9CA-5815-4A09-B1E3-A4626DB2F67D}\Async_Winform.pdb

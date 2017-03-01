@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Partioner_Dynamic.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Partioner_Dynamic.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Partioner_Dynamic.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{6919C7EF-D838-4FA0-A7D6-E73FD1C99F07}\Parallel_Partioner_Dynamic.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{6919C7EF-D838-4FA0-A7D6-E73FD1C99F07}\Parallel_Partioner_Dynamic.pdb

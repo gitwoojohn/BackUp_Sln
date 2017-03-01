@@ -7,3 +7,6 @@ C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_For_CancelToken\bin\Debug\Parallel_For_CancelToken.pdb
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_For_CancelToken\obj\Debug\Parallel_For_02.csprojResolveAssemblyReference.cache
 C:\Users\Sapphire\Documents\Visual Studio 2015\Projects\C#\1_Task Parallel Async\Parallel_ForEach_01\Parallel_For_CancelToken\obj\Debug\Parallel_For_CancelToken.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_For_CancelToken\bin\Debug\Parallel_For_CancelToken.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_For_CancelToken\obj\Debug\Parallel_For_CancelToken.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\Parallel_For_CancelToken\obj\Debug\Parallel_For_CancelToken.pdb

@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\ThreadLocalForEach.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\ThreadLocalForEach.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\ThreadLocalForEach.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2EC4FDD9-75F7-47BA-A248-C9EDFC32F1AF}\ThreadLocalForEach.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{2EC4FDD9-75F7-47BA-A248-C9EDFC32F1AF}\ThreadLocalForEach.pdb

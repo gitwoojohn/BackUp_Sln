@@ -4,3 +4,6 @@ G:\Project\CSharp\Learn\Delegate and Event\Delegate and Event\bin\Debug\Delegate
 G:\Project\CSharp\Learn\Delegate and Event\Delegate and Event\obj\Debug\Delegate and Event.csprojResolveAssemblyReference.cache
 G:\Project\CSharp\Learn\Delegate and Event\Delegate and Event\obj\Debug\Delegate and Event.exe
 G:\Project\CSharp\Learn\Delegate and Event\Delegate and Event\obj\Debug\Delegate and Event.pdb
+D:\ba\BackUp_Sln\Delegate and Event\Delegate and Event\bin\Debug\Delegate and Event.exe.config
+D:\ba\BackUp_Sln\Delegate and Event\Delegate and Event\obj\Debug\Delegate and Event.exe
+D:\ba\BackUp_Sln\Delegate and Event\Delegate and Event\obj\Debug\Delegate and Event.pdb

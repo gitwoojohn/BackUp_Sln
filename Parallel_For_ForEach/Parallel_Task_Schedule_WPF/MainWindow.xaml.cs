@@ -24,7 +24,7 @@ namespace Parallel_Task_Schedule_WPF
             }
             return result;
         }
-        private void button_Click( object sender, RoutedEventArgs e )
+        private void Button_Click( object sender, RoutedEventArgs e )
         {
             textBlock.Text = "";
             label.Content = "Milliseconds: ";
@@ -37,7 +37,7 @@ namespace Parallel_Task_Schedule_WPF
                 var t = Task.Factory.StartNew( () =>
                 {
                     var result = SumRootN( j );
-                    this.Dispatcher.BeginInvoke( new Action( () =>
+                    Dispatcher.BeginInvoke( new Action( () =>
                            textBlock.Text += "root " + j.ToString() + " " +
                                              result.ToString() +
                                              Environment.NewLine )

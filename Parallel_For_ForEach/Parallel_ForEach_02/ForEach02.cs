@@ -33,8 +33,8 @@ namespace Parallel_ForEach_02
                 즉, 아무 작업도 처리되지 않은 시스템의 상태로 돌아갈 수 있어야 한다.
         */
         static void Main()
-        {           
-            int[] input = Enumerable.Range( 0, 9 ).ToArray(); //{ 4, 1, 6, 2, 9, 5, 10, 3 };
+        {
+            int[] input = Enumerable.Range( 1, 10 ).ToArray(); //{ 4, 1, 6, 2, 9, 5, 10, 3 };
             long sum = 0;
 
             try

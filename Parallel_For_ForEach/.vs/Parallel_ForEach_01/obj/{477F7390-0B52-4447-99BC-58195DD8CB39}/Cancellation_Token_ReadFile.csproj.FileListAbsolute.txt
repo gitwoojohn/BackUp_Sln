@@ -1,0 +1,5 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Cancellation_Token_ReadFile.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Cancellation_Token_ReadFile.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Cancellation_Token_ReadFile.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{477F7390-0B52-4447-99BC-58195DD8CB39}\Cancellation_Token_ReadFile.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{477F7390-0B52-4447-99BC-58195DD8CB39}\Cancellation_Token_ReadFile.pdb

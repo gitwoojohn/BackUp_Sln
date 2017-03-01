@@ -1,0 +1,13 @@
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Task_Schedule_WPF.exe.config
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Task_Schedule_WPF.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\bin\0\Parallel_Task_Schedule_WPF.pdb
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\MainWindow.g.cs
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\App.g.cs
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF_MarkupCompile.cache
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF_MarkupCompile.lref
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\MainWindow.baml
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF.g.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF.Properties.Resources.resources
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF.csproj.GenerateResource.Cache
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF.exe
+D:\ba\BackUp_Sln\Parallel_For_ForEach\.vs\Parallel_ForEach_01\obj\{966143C7-48D9-4247-8DD8-29B44AE07B09}\Parallel_Task_Schedule_WPF.pdb
